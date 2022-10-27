@@ -1,0 +1,2 @@
+Check your node is syncing to latest block
+cardano-cli query tip --mainnet
